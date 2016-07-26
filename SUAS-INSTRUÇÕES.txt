@@ -1,2 +1,4 @@
-Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
-quando estivermos avaliando a sua solução
+1 - O relatório está sendo gerado em CSV
+2 - Os arquivo entrada e saida do relatorio estao na pasta docs
+3 - Extrair zip
+4 - Pela IDE-Eclipse pode-se executar testes utilizando o JUnit
