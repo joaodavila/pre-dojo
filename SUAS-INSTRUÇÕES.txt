@@ -1,4 +1,5 @@
 1 - O relatório está sendo gerado em CSV
 2 - Os arquivo entrada e saida do relatorio estao na pasta docs
-3 - Extrair zip
-4 - Pela IDE-Eclipse pode-se executar testes utilizando o JUnit
+3 - Extrair pre-dojo.zip
+4 - Compilar usando Principal.java e executar o .class gerado
+5 - Pela IDE-Eclipse pode-se executar testes utilizando o JUnit
